@@ -1,4 +1,4 @@
-import os
+                                                                                                                       import os
 import base64
 import mimetypes
 from mistralai import Mistral
